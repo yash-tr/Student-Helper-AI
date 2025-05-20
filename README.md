@@ -1,4 +1,4 @@
-# Student Helper AI: AI-Powered Study Assistant 
+# Mind Mentor AI: AI-Powered Study Assistant 
 
 ## Table of Contents
 - [Overview](#overview)
