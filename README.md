@@ -109,8 +109,8 @@ Mind Mentor is an intelligent study companion that leverages AI to transform the
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/KartikLabhshetwar/mind-mentor
-cd mind-mentor
+git clone https://github.com/yash-tr/Student-Helper-AI
+cd Student-Helper-AI
 ```
 
 2. Set up environment variables:
